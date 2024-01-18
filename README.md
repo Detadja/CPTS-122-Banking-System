@@ -1,4 +1,4 @@
-# CPTS-122-Bank-System
+# CPTS-122-Banking-System
 
 * This is a school project created in C++. It simulates a simple banking system which allows the user to view and manipulate their Banking, Savings, and Checking account. Outputs directly to console.
 
